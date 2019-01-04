@@ -1,5 +1,3 @@
-package java_就当一堆来学习;
-
 public class Student {
         private int age;		//成员变量
         private String name;

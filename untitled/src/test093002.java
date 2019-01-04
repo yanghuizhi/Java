@@ -1,5 +1,3 @@
-package java_就当一堆来学习;
-
 public class test093002 {
     public static void main(String[] args) {
 
